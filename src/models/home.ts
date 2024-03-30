@@ -1,0 +1,20 @@
+export type OfferDetailTypes = {
+  CategName: string;
+  CurrencySymbol: string;
+  DealCategoryID: string;
+  DealID: string;
+  DealType: string;
+  Description: string;
+  Discount: string;
+  Image: string;
+  MemberTier: string;
+  PromoCode: string;
+  StoreID: string;
+  StoreName: string;
+  TOC: string;
+  Title: string;
+  TowerNumber: string;
+  ValidityEnd: string;
+  ValidityStart: string;
+  isFav: string;
+};
